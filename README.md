@@ -24,7 +24,7 @@ A simple yet feature-rich Todo List application built with **React**, **Tailwind
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/todo-list-pro.git
+   git clone https://github.com/your-username/todoList.git
    cd todo-list-pro
    ```
 2. **install dependencies**:
